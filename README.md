@@ -11,7 +11,7 @@ The Ethereum registry contract acts as a public ledger, where the Ethereum-Ident
 |        Network         | ChainId |              Registry Address              |
 | :--------------------: | :-----: | :----------------------------------------: |
 |    Ethereum Mainnet     |   1   |  |
-| Ethereum Testnet (Sepolia) |  11155111  | 0xF81c20E4faf223b77A9eb2610113cb07f9f320b0 |
+| Ethereum Testnet (Sepolia) |  11155111  | 0x5ed23414f886D3a76b59Cc6a60d860142B31279B |
 
 ## Methods
 
